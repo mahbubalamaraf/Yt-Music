@@ -8,4 +8,9 @@
         <item name="android:windowBackground">@color/heaven_background</item>
         <item name="android:colorBackground">@color/heaven_background</item>
     </style>
+
+    <style name="RoundedImage">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">8dp</item>
+    </style>
 </resources>
