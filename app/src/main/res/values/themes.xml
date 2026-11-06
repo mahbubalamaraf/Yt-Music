@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Heaven" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/heaven_primary</item>
+        <item name="colorOnPrimary">@color/heaven_on_primary</item>
+        <item name="android:statusBarColor">@color/heaven_background</item>
+        <item name="android:navigationBarColor">@color/heaven_surface</item>
+        <item name="android:windowBackground">@color/heaven_background</item>
+        <item name="android:colorBackground">@color/heaven_background</item>
+    </style>
+</resources>
